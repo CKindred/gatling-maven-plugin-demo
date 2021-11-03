@@ -7,7 +7,7 @@ class BasicMothSimulation extends Simulation {
 
   val httpProtocol = http
     // Here is the root for all relative URLs
-    .baseUrl("http://127.0.0.1:3007/")
+    .baseUrl("host.docker.internal:3007/")
     // Here are the common headers
     .acceptHeader("text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
     .doNotTrackHeader("1")
