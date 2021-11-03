@@ -1,7 +1,7 @@
 gatling-maven-plugin-demo
 =========================
 
-Simple showcase of a maven project using the gatling-maven-plugin.
+Simple proof of concept showcasing the use of Gatling to benchmark the MOT history service.
 
 To test it out, simply execute the following command:
 
