@@ -5,7 +5,7 @@ Simple proof of concept showcasing the use of Gatling to benchmark the MOT histo
 
 To test it out, simply execute the following command:
 
-    $mvn gatling:test -Dgatling.simulationClass=computerdatabase.BasicSimulation
+    $mvn gatling:test -Dgatling.simulationClass=BasicMothSimulation
 
 or simply:
 
